@@ -1,11 +1,4 @@
-###
-▄───▄<br>
-█▀█▀█<br>
-█▄█▄█<br>
-─███──▄▄<br>
-─████▐█─█<br>
-─████───█<br>
-─▀▀▀▀▀▀▀<br>         
+<img src="https://github.com/user-attachments/assets/dd393c41-70f7-4b20-9886-cf36292f024f">           
 
 <table border="0">
   <tr>
@@ -28,6 +21,15 @@ Hi! I'm **ShiroN**, who is  also a student, constantly exploring and learning ne
 I believe that creativity doesn't have to be perfect or flashy—what matters most is being genuine. Even if I’m still a small creator now, I truly believe that if I keep going, one day more people will see and appreciate what I’ve built with heart.
 
 ## About Me
+
+###
+▄───▄<br>
+█▀█▀█<br>
+█▄█▄█<br>
+─███──▄▄<br>
+─████▐█─█<br>
+─████───█<br>
+─▀▀▀▀▀▀▀<br>  
 
 I'm passionate about web development and coding. <br>I enjoy learning all kinds of things—from design to storytelling, and especially programming.<br> I'm always excited to pick up new skills along the way and apply them to creative projects.<br> Check out my personal website [here](https://uwushiron.github.io)!
 
